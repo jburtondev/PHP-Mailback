@@ -1,4 +1,4 @@
-jjburton.com
+PHP-Mailback
 ============
 
 This uses the php mail() function, taking the users input and storing it as a variable. 
